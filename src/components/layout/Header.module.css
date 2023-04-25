@@ -1,0 +1,14 @@
+.header {
+    border: 1px solid white;
+}
+
+.ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.ul a:hover{
+    color: #f0f0f0;
+    text-decoration: underline;
+}
